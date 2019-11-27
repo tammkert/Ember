@@ -1,4 +1,7 @@
-# ember-quickstart
+<img src="picture1.png" width="800" title="projektipilt1">
+<img src="picture2.png" width="800" title="projektipilt2">
+
+# Kert Tamm Angular Iseseisev Töö
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
