@@ -1,0 +1,28 @@
+<!--<div class="jumbo">
+  <div class="right tomster"></div>
+  <h2>Kütusekulu kalkulaator</h2>
+  <p>
+    Super Rentals Representatives would love to help you<br>
+    choose a destination or answer any questions you may have.
+  </p>
+  <address>
+    Super Rentals HQ
+    <p>
+      1212 Test Address Avenue<br>
+      Testington, OR 97233
+    </p>
+    <a href="tel:503.555.1212">+1 (503) 555-1212</a><br>
+    <a href="mailto:superrentalsrep@emberjs.com">superrentalsrep@emberjs.com</a>
+  </address>
+    {{#link-to "about" class = "button"}}
+        About
+    {{/link-to}}
+</div>
+-->
+
+<h1>Kütusekulu kalkulaator</h1>
+<p>Sõidetud distants (km):<input id="distance" type="number" min="150" max="1000000" value="250"></p>
+<p>Kütuse kulu (L):<input id="fuel" type="number" min="10" max="10000000" step="1" value="20"></p>
+<p>Kütuse hind: € <input id="costper" type="number" min="1.49" max="10" step="0.01" value="1.49"></p>
+<h2 id="consumption">{{calculate}}</h2>
+
