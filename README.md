@@ -62,7 +62,7 @@ Specify what it takes to deploy your app.
   
 # Ember.js - Kert Tamm tunnis tehtud
 
-<img src="naide1.png" width="350" title="projektipilt1">
+<img src="naide1.png" width="500" title="projektipilt1">
 
 GITHUB demo link: https://github.com/rihon/ember
 
